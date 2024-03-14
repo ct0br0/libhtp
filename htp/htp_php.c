@@ -31,6 +31,8 @@
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  ***************************************************************************/
 
+// nothing
+
 /**
  * @file
  * @author Ivan Ristic <ivanr@webkreator.com>
